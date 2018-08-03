@@ -14,7 +14,9 @@
 **Today's Progress** : Basics in Stats
  - [Stats Code](StatsAssignment.ipynb)
  
-
+### Day 3 : AUGUST 3 , 2018
+ 
+**Today's Progress** : Matplot session
 
 
 
