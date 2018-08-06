@@ -18,6 +18,11 @@
  
 **Today's Progress** : Matplot session
 
+### Day 4 : AUGUST 6 , 2018
+ 
+**Today's Progress** : Descriptive Statistics
+ - [Measures of Spread](MeasuresOfSpreadAssignment.ipynb)
+
 
 
 
