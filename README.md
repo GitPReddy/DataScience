@@ -22,6 +22,12 @@
  
 **Today's Progress** : Descriptive Statistics
  - [Measures of Spread](MeasuresOfSpreadAssignment.ipynb)
+ 
+### Day 5 : AUGUST 8 , 2018
+ 
+**Today's Progress** : Data Visulisation 
+ - [Data Visulisation](DataVisulisation.ipynb)
+
 
 
 
